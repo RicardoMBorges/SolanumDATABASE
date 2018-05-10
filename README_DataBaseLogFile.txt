@@ -19,3 +19,4 @@ Columns 52-135: Molecular Descriptor defined as J. Nat. Prod.,  80(6): 1758-1766
 Columns 136-139: Most intense peaks from Mass Spectrometry prediction calculated at cfmid.wishartlab.com/ [ref: Nucleic Acids Research, 42 (W1): W94-99, 2014]
 
 
+*highlighted in yellow there are some wrong SMILES to be corrected. 
